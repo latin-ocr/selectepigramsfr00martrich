@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./selectepigramsfr00martrich_0006.png"; bbox 0 0 1732 2959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 291 1272 1368 1392">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 291 1272 1368 1392">
+     <span class='ocr_line' id='line_1_1' title="bbox 291 1272 1368 1326; baseline -0.006 -11"><span class='ocrx_word' id='word_1_1' title='bbox 291 1277 405 1316; x_wconf 76' lang='lat' dir='ltr'><em>Fz‘rst</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 431 1275 605 1314; x_wconf 77' lang='lat' dir='ltr'><em>Edition</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 626 1274 802 1326; x_wconf 76' lang='lat' dir='ltr'><em>printed</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 824 1273 871 1324; x_wconf 84' lang='lat' dir='ltr'><em>by</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 904 1274 947 1312; x_wconf 91' lang='lat' dir='ltr'><em>C.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 971 1273 1025 1324; x_wconf 88' lang='lat' dir='ltr'><em>J.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1051 1273 1085 1310; x_wconf 88' lang='lat' dir='ltr'><em>C</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1085 1272 1160 1310; x_wconf 83' lang='lat' dir='ltr'><em>LA</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1178 1272 1220 1319; x_wconf 72' lang='lat' dir='ltr'><em>Y,</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1259 1273 1368 1311; x_wconf 90' lang='lat'>1880.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 583 1342 1100 1392; baseline -0.008 -11"><span class='ocrx_word' id='word_1_11' title='bbox 583 1342 808 1392; x_wconf 77' lang='lat' dir='ltr'><em>Reprimed</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 836 1342 950 1390; x_wconf 84' lang='lat'>1887,</span> <span class='ocrx_word' id='word_1_13' title='bbox 988 1342 1100 1391; x_wconf 88' lang='lat'>1895.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 695 1454 900 1581">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 695 1454 900 1581">
+     <span class='ocr_line' id='line_1_3' title="bbox 695 1454 900 1581; baseline -0.024 -26"><span class='ocrx_word' id='word_1_14' title='bbox 695 1547 704 1569; x_wconf 68' lang='grc'>,</span> <span class='ocrx_word' id='word_1_15' title='bbox 716 1454 900 1581; x_wconf 44' lang='grc' dir='ltr'><em>«Χέἳ»</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
